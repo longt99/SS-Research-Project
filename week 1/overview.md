@@ -5,5 +5,5 @@ The first few days were spent reading through papers and going through SunPy exa
 * GOES
 * STIX
 * I-LOFAR
-* WIND (attempted but issue with file type)
+* WIND WAVES
 * Summary Plot with GOES + STIX + SWAVES
